@@ -1,0 +1,48 @@
+.x
+{
+	height:500px;
+	width:89%;
+	margin-left: 20px;
+}
+.y
+{
+	height: 290px;
+	width: 45%;
+	float: right;
+	margin-bottom: 18px;
+	margin-right: 20px;
+}
+.row
+{
+	width: 100%;
+	height: 600px;
+}
+.btn1
+{
+	width:100%;
+	background-color: black;
+}
+.footer
+	{
+		background-color: red;
+		color: blue;
+		height: 150px;
+		text-align: center;
+		clear:both;
+		border:1px solid black;
+		border-radius: 10px;
+	}
+}
+table,th,td
+{
+	border:2px solid #4dff4d;
+	border-collapse:collapse;
+	width:50%;
+	padding:20px;
+	color: #ff944d;
+	font-weight:italics;
+}
+body 
+{
+	background:linear-gradient(to left, #bfff00, #e6005c, #ccffcc);
+}
